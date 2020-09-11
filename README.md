@@ -58,7 +58,7 @@ Hence, we will initially go through the following steps:
     5. Data type conversion (to numeric)
     6. Dropping fields (as required)
     7. Saving and creating data-sets for analysis
-4. Model building, training and testing with Accuracy as performance criteria. There are many measurement criteria available, for now we are keeping this project simple.
+4. Model building, training and testing with Accuracy as performance measurement criteria. There are many measurement criteria available, for now we are keeping this project simple.
 5. Improvements:
     1. Cross-validation: 10 Fold
     2. Parameter optimization: GridsearchCV
